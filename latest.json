@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.6",
-  "notes": "설치파일 경량화(런타임 의존성만), Windows 단독 CI + mac 로컬 빌드",
-  "publishedAt": "2026-09-09T05:12:00Z"
+  "version": "1.0.7",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.7",
+  "notes": "",
+  "publishedAt": "2026-09-09T06:31:31.234Z"
 }
