@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.7",
-  "notes": "앱 내 새 버전 알림 배지, CI 인증 pmstudios 배포 키",
-  "publishedAt": "2026-09-09T06:31:31.234Z"
+  "version": "1.0.8",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.8",
+  "notes": "갱신 리그 FBX 변환 수정(애니메이션 제거), 창 재생성 시 에셋 서버 복구, Import/Open 화면 잠금",
+  "publishedAt": "2026-09-09T07:25:09.716Z"
 }
