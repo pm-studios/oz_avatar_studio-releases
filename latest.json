@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.10",
-  "notes": "Windows 수정 3건: 헤어 노멀/투명 판정 경로 버그(역슬래시), 첫 Import Unity 프로젝트 자동 생성, 시작 크래시(spawn ENOENT) 안전망",
-  "publishedAt": "2026-09-10T04:58:49.212Z"
+  "version": "1.0.11",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.11",
+  "notes": "재변환/재Import 후 옛 텍스처가 남던 뷰어 캐시 수정(재시작 불필요), Import 단계별 시간 로그, Parts 그룹 실패 원인 로그, Blender --factory-startup",
+  "publishedAt": "2026-09-10T06:47:32.164Z"
 }
