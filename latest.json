@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.8",
-  "notes": "갱신 리그 FBX 변환 수정(애니메이션 제거), 창 재생성 시 에셋 서버 복구, Import/Open 화면 잠금",
-  "publishedAt": "2026-09-09T07:25:09.716Z"
+  "version": "1.0.9",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.9",
+  "notes": "Parts 탭 색 착용(현재색 스와치+프리셋 선택, PartsData 편집 라이브 반영), Import 진행 중 파츠 id 표시, 창 닫힌 뒤 업데이트 확인 오류 가드",
+  "publishedAt": "2026-09-10T01:49:31.658Z"
 }
