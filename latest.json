@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.11",
-  "notes": "재변환/재Import 후 옛 텍스처가 남던 뷰어 캐시 수정(재시작 불필요), Import 단계별 시간 로그, Parts 그룹 실패 원인 로그, Blender --factory-startup",
-  "publishedAt": "2026-09-10T06:47:32.164Z"
+  "version": "1.0.12",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.12",
+  "notes": "Windows CRLF 체크아웃 대응: 컬러 프리셋/.asset·.mat 편집이 통째로 안 보이던 것 수정",
+  "publishedAt": "2026-09-10T07:11:16.510Z"
 }
