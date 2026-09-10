@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.9",
-  "notes": "Parts 탭 색 착용(현재색 스와치+프리셋 선택, PartsData 편집 라이브 반영), Import 진행 중 파츠 id 표시, 창 닫힌 뒤 업데이트 확인 오류 가드",
-  "publishedAt": "2026-09-10T01:49:31.658Z"
+  "version": "1.0.10",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.10",
+  "notes": "Windows 수정 3건: 헤어 노멀/투명 판정 경로 버그(역슬래시), 첫 Import Unity 프로젝트 자동 생성, 시작 크래시(spawn ENOENT) 안전망",
+  "publishedAt": "2026-09-10T04:58:49.212Z"
 }
