@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.14",
-  "notes": "데칼 착용/L·R 색 수정, 캡처 화질(데칼 원본·그림자 4096), Preview dev 서버 진단(환경체크 npm install·로그·타임아웃)",
-  "publishedAt": "2026-09-11T04:45:17.404Z"
+  "version": "1.0.15",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.15",
+  "notes": "Capture 탭 툴바 정책(쿼드뷰 등 비활성), 탭별 조작 게이팅·Environment 잠금, 환경체크 Node.js 설치 버튼·npm 경로 자동 보정",
+  "publishedAt": "2026-09-11T05:37:47.829Z"
 }
