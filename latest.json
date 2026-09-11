@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.12",
-  "notes": "Windows CRLF 체크아웃 대응: 컬러 프리셋/.asset·.mat 편집이 통째로 안 보이던 것 수정",
-  "publishedAt": "2026-09-10T07:11:16.510Z"
+  "version": "1.0.13",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.13",
+  "notes": "사용 가이드 PDF 동봉(Help/F1/[?]), 메뉴 정리·한글화, Windows Blender 경로 탐색, 발광 주기 펄스 노브(연출 소그룹), 재착용 시 .mat 값 유지, 슬라이더 커밋 후 자동 GLB 재변환",
+  "publishedAt": "2026-09-11T01:41:48.602Z"
 }
