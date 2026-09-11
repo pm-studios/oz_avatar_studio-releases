@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.16",
-  "notes": "Windows npm 탐지 수정, Files 탭 FBX 버전 배지, 프로젝트 열기 실패 이유 표시·단일 인스턴스, assimp 폴백 제거",
-  "publishedAt": "2026-09-11T07:09:30.402Z"
+  "version": "1.0.17",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.17",
+  "notes": "",
+  "publishedAt": "2026-09-11T07:48:44.746Z"
 }
