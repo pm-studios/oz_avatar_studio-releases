@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.13",
-  "notes": "사용 가이드 PDF 동봉(Help/F1/[?]), 메뉴 정리·한글화, Windows Blender 경로 탐색, 발광 주기 펄스 노브(연출 소그룹), 재착용 시 .mat 값 유지, 슬라이더 커밋 후 자동 GLB 재변환",
-  "publishedAt": "2026-09-11T01:41:48.602Z"
+  "version": "1.0.14",
+  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.14",
+  "notes": "데칼 착용/L·R 색 수정, 캡처 화질(데칼 원본·그림자 4096), Preview dev 서버 진단(환경체크 npm install·로그·타임아웃)",
+  "publishedAt": "2026-09-11T04:45:17.404Z"
 }
