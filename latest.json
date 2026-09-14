@@ -1,6 +1,6 @@
 {
-  "version": "1.0.21",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.21",
-  "notes": "QA 수정(팝아웃 새 창, 환경 기본값 복원·카메라 리셋 정리, Ambient/환경맵 안내, 쿼드뷰 카메라 유지), 업데이트 5분 주기·다운로드 %, Preview 프록시(Mixed Content 제거)·인덱스 캐시",
-  "publishedAt": "2026-09-14T04:55:04.720Z"
+  "version": "1.0.22",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.22",
+  "notes": "Unity 소스 읽기 캐시(stat 검증): Files/파츠 목록·머티리얼·참조 검색 전수 재읽기 제거 (Windows 앱 전체 느림) + [perf] 로그",
+  "publishedAt": "2026-09-14T06:38:38.640Z"
 }
