@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.23",
-  "notes": "설정>렌더 제한(프레임 상한/렌더 해상도, 가려진 씬뷰 4fps), Assets 전체 인덱스 제거, PartsData 디스크 캐시, Preview 프록시 구버전 배너",
-  "publishedAt": "2026-09-14T07:22:39.336Z"
+  "version": "1.0.24",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.24",
+  "notes": "Preview dev 서버 기동 직후 강제 리로드 제거 (로딩 → 흰 화면 → 재로딩 깜빡임)",
+  "publishedAt": "2026-09-14T09:00:13.073Z"
 }
