@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.18",
-  "notes": "Windows 자동 업데이트(백그라운드 다운로드·재시작 적용), 프리뷰 무한로딩 진단 로그([api]/[catalog])",
-  "publishedAt": "2026-09-14T01:03:17.937Z"
+  "version": "1.0.19",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.19",
+  "notes": "프리뷰 파츠 목록 무한로딩 수정(인덱스 축소·동시 읽기·스캔 공유), 업데이트 확인 10분 주기 + 도움말 > 업데이트 확인",
+  "publishedAt": "2026-09-14T01:49:03.471Z"
 }
