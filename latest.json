@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "url": "https://github.com/pm-studios/oz_avatar_studio/releases/tag/v1.0.17",
-  "notes": "카탈로그 API 가속(Windows 프리뷰 파츠 무한로딩), 아이콘 URL Windows 경로 보강·진단 로그, 에셋 서버 바인드 재시도",
-  "publishedAt": "2026-09-11T07:48:44.746Z"
+  "version": "1.0.18",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.18",
+  "notes": "Windows 자동 업데이트(백그라운드 다운로드·재시작 적용), 프리뷰 무한로딩 진단 로그([api]/[catalog])",
+  "publishedAt": "2026-09-14T01:03:17.937Z"
 }
