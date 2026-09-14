@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.19",
-  "notes": "프리뷰 파츠 목록 무한로딩 수정(인덱스 축소·동시 읽기·스캔 공유), 업데이트 확인 10분 주기 + 도움말 > 업데이트 확인",
-  "publishedAt": "2026-09-14T01:49:03.471Z"
+  "version": "1.0.20",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.20",
+  "notes": "자동 업데이트 진행률(%), Windows 콘솔 창 깜빡임 제거, Preview iframe 진단 로그([preview]/[asset] 404), 시작 시 전체 인덱스 제거",
+  "publishedAt": "2026-09-14T03:16:44.192Z"
 }
