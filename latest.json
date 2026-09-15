@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.26",
-  "notes": "노멀맵 G 채널 뒤집힘(n-gon 탄젠트 누락) 수정 + 기존 파츠 배경 재변환, Blender 최소 5.2 강제(5.1.0 커스텀 노멀 결함)·업그레이드 버튼",
-  "publishedAt": "2026-09-15T03:40:21.773Z"
+  "version": "1.0.27",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.27",
+  "notes": "텍스처 크기·압축 설정(텍스처 패널, 변환결과/원본), 프레임 상한 기본 30, 코 착용·프리뷰 코/포즈 아이콘, Ava_C_001 캡 정렬, macOS 권한 안내, 회귀 테스트 보강",
+  "publishedAt": "2026-09-15T06:31:58.563Z"
 }
