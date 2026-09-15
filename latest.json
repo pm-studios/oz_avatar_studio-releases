@@ -1,6 +1,6 @@
 {
-  "version": "1.0.27",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.27",
-  "notes": "텍스처 크기·압축 설정(텍스처 패널, 변환결과/원본), 프레임 상한 기본 30, 코 착용·프리뷰 코/포즈 아이콘, Ava_C_001 캡 정렬, macOS 권한 안내, 회귀 테스트 보강",
-  "publishedAt": "2026-09-15T06:31:58.563Z"
+  "version": "1.0.28",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.28",
+  "notes": "환경 체크 GPU 가속(WebGL) 진단 항목 + 설정 창 씬뷰 실측 FPS (노트북 프리뷰 느림 진단)",
+  "publishedAt": "2026-09-15T06:47:43.057Z"
 }
