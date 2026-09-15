@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.24",
-  "notes": "Preview dev 서버 기동 직후 강제 리로드 제거 (로딩 → 흰 화면 → 재로딩 깜빡임)",
-  "publishedAt": "2026-09-14T09:00:13.073Z"
+  "version": "1.0.25",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.25",
+  "notes": "Emissive 강도 상한 1000, Scene 데칼 착용(설치본 시드 복구), MaskTint/Mask2Tint 인스펙터 판정·mask2 정합, Hierarchy 캡 표시, 변환 실패 사유 표시",
+  "publishedAt": "2026-09-15T01:44:58.454Z"
 }
