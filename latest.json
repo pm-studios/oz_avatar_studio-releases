@@ -1,6 +1,6 @@
 {
-  "version": "1.0.28",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.28",
-  "notes": "환경 체크 GPU 가속(WebGL) 진단 항목 + 설정 창 씬뷰 실측 FPS (노트북 프리뷰 느림 진단)",
-  "publishedAt": "2026-09-15T06:47:43.057Z"
+  "version": "1.0.30",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.30",
+  "notes": "v1.0.30",
+  "publishedAt": "2026-09-16T01:34:01.227Z"
 }
