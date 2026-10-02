@@ -1,6 +1,6 @@
 {
-  "version": "1.0.37",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.37",
-  "notes": "테스트: 통합 테스트의 basename 을 path.basename 으로 (Windows 역슬래시 경로 — CI 실패 수정)",
-  "publishedAt": "2026-10-01T07:32:54.713Z"
+  "version": "1.0.38",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.38",
+  "notes": "1.0.38",
+  "publishedAt": "2026-10-02T04:56:37.138Z"
 }
