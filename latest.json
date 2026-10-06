@@ -1,6 +1,6 @@
 {
-  "version": "1.0.40",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.40",
-  "notes": "Scene 커스텀(얼굴형·눈썹·눈·코·입 블렌드셰이프, 데칼 좌우/상하/크기), 눈썹 벗기, 같은 파츠 재선택 색 유지, 팔레트 우클릭 메뉴 z-index",
-  "publishedAt": "2026-10-06T04:53:22.922Z"
+  "version": "1.0.41",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.41",
+  "notes": "Custom 슬라이더 stale 값 수정(프리셋 로드/undo 뒤 현재값 기준), 고정 인스펙터 아바타 블렌드셰이프",
+  "publishedAt": "2026-10-06T05:14:29.598Z"
 }
