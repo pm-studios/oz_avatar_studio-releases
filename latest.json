@@ -1,6 +1,6 @@
 {
-  "version": "1.0.41",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.41",
-  "notes": "Custom 슬라이더 stale 값 수정(프리셋 로드/undo 뒤 현재값 기준), 고정 인스펙터 아바타 블렌드셰이프",
-  "publishedAt": "2026-10-06T05:14:29.598Z"
+  "version": "1.0.42",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.42",
+  "notes": "촬영 가로×세로 해상도(단체샷), Hierarchy 데칼 노드, 아바타 프리셋 썸네일 고정 구도, Blender 체크 실패 사유",
+  "publishedAt": "2026-10-07T01:11:28.466Z"
 }
