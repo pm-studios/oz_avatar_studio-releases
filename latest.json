@@ -1,6 +1,6 @@
 {
-  "version": "1.0.42",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.42",
-  "notes": "촬영 가로×세로 해상도(단체샷), Hierarchy 데칼 노드, 아바타 프리셋 썸네일 고정 구도, Blender 체크 실패 사유",
-  "publishedAt": "2026-10-07T01:11:28.466Z"
+  "version": "1.0.43",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.43",
+  "notes": "인스펙터 카드 ↗ 링크 Files 위치 표시만(통일), PNG 저장 라벨 실제 크기, 조명 뷰 추종 토글 이름, 테스트 보강",
+  "publishedAt": "2026-10-08T04:18:53.373Z"
 }
