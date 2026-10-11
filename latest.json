@@ -1,6 +1,6 @@
 {
-  "version": "1.0.43",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.43",
-  "notes": "인스펙터 카드 ↗ 링크 Files 위치 표시만(통일), PNG 저장 라벨 실제 크기, 조명 뷰 추종 토글 이름, 테스트 보강",
-  "publishedAt": "2026-10-08T04:18:53.373Z"
+  "version": "1.0.45",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.45",
+  "notes": "Preview·환경체크에 로컬 AvatarWeb 구버전 경고(git pull 안내): 씬뷰(번들)엔 반영된 AvatarWeb 수정이 Preview(로컬 vite)엔 없는 상태 감지",
+  "publishedAt": "2026-10-11T23:57:34.988Z"
 }
