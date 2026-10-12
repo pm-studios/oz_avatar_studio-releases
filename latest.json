@@ -1,6 +1,6 @@
 {
-  "version": "1.0.45",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.45",
-  "notes": "Preview·환경체크에 로컬 AvatarWeb 구버전 경고(git pull 안내): 씬뷰(번들)엔 반영된 AvatarWeb 수정이 Preview(로컬 vite)엔 없는 상태 감지",
-  "publishedAt": "2026-10-11T23:57:34.988Z"
+  "version": "1.0.46",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.46",
+  "notes": "이름 변경 입력창(window.prompt 미지원)·Files F2/Delete 단축키, PartsData 참조 변경 후 재변환 실패/폴백 표시, (미해석) 즉시 해소, 블룸 이미시브 전용 안내",
+  "publishedAt": "2026-10-12T00:51:19.441Z"
 }
