@@ -1,6 +1,6 @@
 {
-  "version": "1.0.46",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.46",
-  "notes": "이름 변경 입력창(window.prompt 미지원)·Files F2/Delete 단축키, PartsData 참조 변경 후 재변환 실패/폴백 표시, (미해석) 즉시 해소, 블룸 이미시브 전용 안내",
-  "publishedAt": "2026-10-12T00:51:19.441Z"
+  "version": "1.0.47",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.47",
+  "notes": "새 파츠 생성 ID 충돌 즉시 표시·빈 번호 제안·실패 사유 창 내 표시, PartsData(.asset) 복제 = 새 ID 로 생성",
+  "publishedAt": "2026-10-13T04:50:20.028Z"
 }
