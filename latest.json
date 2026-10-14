@@ -1,6 +1,6 @@
 {
-  "version": "1.0.47",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.47",
-  "notes": "새 파츠 생성 ID 충돌 즉시 표시·빈 번호 제안·실패 사유 창 내 표시, PartsData(.asset) 복제 = 새 ID 로 생성",
-  "publishedAt": "2026-10-13T04:50:20.028Z"
+  "version": "1.0.48",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.48",
+  "notes": "test(ci): verify-against-unity 서브프로세스 테스트 타임아웃 60s — Windows 러너의 npx tsx 콜드 스타트가 5초를 넘어 v1.0.48 CI 실패",
+  "publishedAt": "2026-10-14T08:21:25.587Z"
 }
