@@ -1,6 +1,6 @@
 {
-  "version": "1.0.48",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.48",
-  "notes": "test(ci): verify-against-unity 서브프로세스 테스트 타임아웃 60s — Windows 러너의 npx tsx 콜드 스타트가 5초를 넘어 v1.0.48 CI 실패",
-  "publishedAt": "2026-10-14T08:21:25.587Z"
+  "version": "1.0.49",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.49",
+  "notes": "스무딩 그룹 노말 재현(안경)·FBX 노말 옵션, 머티리얼 피커 구 미리보기, .mat 복제본 인스펙터, Files 붙여넣기 메뉴, 컬러 프리셋 색 복사/붙여넣기(색 칩)",
+  "publishedAt": "2026-10-15T00:29:32.995Z"
 }
