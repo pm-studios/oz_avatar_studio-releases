@@ -1,6 +1,6 @@
 {
-  "version": "1.0.49",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.49",
-  "notes": "스무딩 그룹 노말 재현(안경)·FBX 노말 옵션, 머티리얼 피커 구 미리보기, .mat 복제본 인스펙터, Files 붙여넣기 메뉴, 컬러 프리셋 색 복사/붙여넣기(색 칩)",
-  "publishedAt": "2026-10-15T00:29:32.995Z"
+  "version": "1.0.50",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.50",
+  "notes": "새 FBX 항상 마법사, 복사본 파츠 변환 정합(머티리얼·origin), 아이콘/삭제 정리, 컬러 프리셋 ▲▼, 색상 선택창 개선",
+  "publishedAt": "2026-10-15T04:54:35.156Z"
 }
