@@ -1,6 +1,6 @@
 {
-  "version": "1.0.50",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.50",
-  "notes": "새 FBX 항상 마법사, 복사본 파츠 변환 정합(머티리얼·origin), 아이콘/삭제 정리, 컬러 프리셋 ▲▼, 색상 선택창 개선",
-  "publishedAt": "2026-10-15T04:54:35.156Z"
+  "version": "1.0.51",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.51",
+  "notes": "컬러 프리셋 드래그 정렬, 아이콘/머티리얼 카드 갱신, 빈 아이콘 PNG 수정, Mesh Object 교체·복사본 변환 보강",
+  "publishedAt": "2026-10-15T05:52:57.168Z"
 }
