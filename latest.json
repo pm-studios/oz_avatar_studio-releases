@@ -1,6 +1,6 @@
 {
-  "version": "1.0.51",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.51",
-  "notes": "컬러 프리셋 드래그 정렬, 아이콘/머티리얼 카드 갱신, 빈 아이콘 PNG 수정, Mesh Object 교체·복사본 변환 보강",
-  "publishedAt": "2026-10-15T05:52:57.168Z"
+  "version": "1.0.52",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.52",
+  "notes": "아이콘 회색 바디(IconGray)·창 안 머티리얼 편집, FBX 피커 썸네일, Ava_ 검색, O 단축키, 촬영 셋팅 삭제, 내 해상도, T포즈 선택 수정, Custom 라벨",
+  "publishedAt": "2026-10-16T06:15:09.067Z"
 }
