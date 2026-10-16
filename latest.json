@@ -1,6 +1,6 @@
 {
-  "version": "1.0.52",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.52",
-  "notes": "아이콘 회색 바디(IconGray)·창 안 머티리얼 편집, FBX 피커 썸네일, Ava_ 검색, O 단축키, 촬영 셋팅 삭제, 내 해상도, T포즈 선택 수정, Custom 라벨",
-  "publishedAt": "2026-10-16T06:15:09.067Z"
+  "version": "1.0.53",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.53",
+  "notes": "아이콘 회색 바디 픽킹·언마운트 원복·동시 호출 수정, 테스트 보강",
+  "publishedAt": "2026-10-16T07:20:24.258Z"
 }
