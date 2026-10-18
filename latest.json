@@ -1,6 +1,6 @@
 {
-  "version": "1.0.55",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.55",
-  "notes": ".mat 복제·이름 변경 뒤 Material 피커·드래그 미반영 수정, 편집 흐름 QA 스윕",
-  "publishedAt": "2026-10-18T22:31:08.928Z"
+  "version": "1.0.56",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.56",
+  "notes": "PartsData 참조 서명(pdref) ⟳ 판정·외부 .asset 변경 감지·자동 재변환, Material 비움 실패 보고, 재변환 중복 제거",
+  "publishedAt": "2026-10-18T23:52:21.246Z"
 }
