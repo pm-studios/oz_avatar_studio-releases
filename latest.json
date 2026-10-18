@@ -1,6 +1,6 @@
 {
-  "version": "1.0.54",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.54",
-  "notes": "단축키 관리자(모든 단축키 지정), 한글 입력·mac Option 단축키 수정, 새 기본 단축키",
-  "publishedAt": "2026-10-18T10:26:25.464Z"
+  "version": "1.0.55",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.55",
+  "notes": ".mat 복제·이름 변경 뒤 Material 피커·드래그 미반영 수정, 편집 흐름 QA 스윕",
+  "publishedAt": "2026-10-18T22:31:08.928Z"
 }
