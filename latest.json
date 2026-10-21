@@ -1,6 +1,6 @@
 {
-  "version": "1.0.56",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.56",
-  "notes": "PartsData 참조 서명(pdref) ⟳ 판정·외부 .asset 변경 감지·자동 재변환, Material 비움 실패 보고, 재변환 중복 제거",
-  "publishedAt": "2026-10-18T23:52:21.246Z"
+  "version": "1.0.57",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.57",
+  "notes": "아이콘 촬영 '얼굴' 바디(눈 기본), Capture 원본 텍스처 씬 머티리얼 기준·재준비 트리거",
+  "publishedAt": "2026-10-21T06:33:13.307Z"
 }
