@@ -1,6 +1,6 @@
 {
-  "version": "1.0.58",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.58",
-  "notes": "Parts/Files 보기 크기(작게/중간/크게 타일)",
-  "publishedAt": "2026-10-21T07:00:06.042Z"
+  "version": "1.0.59",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.59",
+  "notes": "전체 블룸(촬영 전용), 눈·눈썹·입 아이콘 텍스처 2D 합성(원본 아이콘 실측 배치·색), Custom 전체 기본값 ↺",
+  "publishedAt": "2026-10-22T04:56:23.733Z"
 }
