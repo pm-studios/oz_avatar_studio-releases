@@ -1,6 +1,6 @@
 {
-  "version": "1.0.59",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.59",
-  "notes": "전체 블룸(촬영 전용), 눈·눈썹·입 아이콘 텍스처 2D 합성(원본 아이콘 실측 배치·색), Custom 전체 기본값 ↺",
-  "publishedAt": "2026-10-22T04:56:23.733Z"
+  "version": "1.0.60",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.60",
+  "notes": "스포이드 돋보기 제거, 파츠 한 번 클릭 착용, 아바타 동시 적용 그룹(착용·색·회전), Files 다중 복사",
+  "publishedAt": "2026-10-22T07:04:23.207Z"
 }
