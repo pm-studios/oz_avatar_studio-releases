@@ -1,6 +1,6 @@
 {
-  "version": "1.0.60",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.60",
-  "notes": "스포이드 돋보기 제거, 파츠 한 번 클릭 착용, 아바타 동시 적용 그룹(착용·색·회전), Files 다중 복사",
-  "publishedAt": "2026-10-22T07:04:23.207Z"
+  "version": "1.0.61",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.61",
+  "notes": "컬러 프리셋 썸네일 클릭 착용, 스포이드 커서 변경 제거",
+  "publishedAt": "2026-10-23T01:06:39.280Z"
 }
