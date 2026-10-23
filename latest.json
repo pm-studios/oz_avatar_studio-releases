@@ -1,6 +1,6 @@
 {
-  "version": "1.0.62",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.62",
-  "notes": "변환 중 화면 전체 잠금, Windows Mesh Object 교체 자동 재변환 수정, 피커 썸네일 정확화, 촬영 직교 미러링",
-  "publishedAt": "2026-10-23T04:13:48.468Z"
+  "version": "1.0.63",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.63",
+  "notes": "반삭 헤어 모자 착용 시 서브 머티리얼 주입·이중 메시 수정 (뷰어 포함)",
+  "publishedAt": "2026-10-23T05:40:44.848Z"
 }
