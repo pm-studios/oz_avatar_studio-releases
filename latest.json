@@ -1,6 +1,6 @@
 {
-  "version": "1.0.68",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.68",
-  "notes": "새 메시를 옛 번호 FBX 이름으로 올렸을 때 다른 모자의 옛 산출물로 보정돼 90° 돌아가던 것 수정(C_014_01), 아이콘 재촬영 즉시 반영",
-  "publishedAt": "2026-10-27T05:36:31.300Z"
+  "version": "1.0.69",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.69",
+  "notes": "셰이더 MaskTint→Mask2Tint 전환 시 세부탭(Tint Mask 2) 바로 표시",
+  "publishedAt": "2026-10-27T05:46:23.055Z"
 }
