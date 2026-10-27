@@ -1,6 +1,6 @@
 {
-  "version": "1.0.66",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.66",
-  "notes": "파츠 id(시스템 키·숨김)/name(표시 이름) 분리·새 파츠 guid·이름 변경·오류 팝업·셰이더 세부탭·.mat 삭제 시 PartsData 유지",
-  "publishedAt": "2026-10-27T04:22:09.368Z"
+  "version": "1.0.67",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.67",
+  "notes": "새 파츠 창 그룹·생성 파일명 표시/변경·텍스처도 복사·전용 텍스처 삭제, 하이어라키 이름 표기, Legacy Id 칸 제거",
+  "publishedAt": "2026-10-27T04:59:45.290Z"
 }
