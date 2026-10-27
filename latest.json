@@ -1,6 +1,6 @@
 {
-  "version": "1.0.70",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.70",
-  "notes": "파츠 더블클릭 즉시 벗김 방지·없음 행 강조 정리, 새 파츠 창 베이스 머티리얼 미리보기·id 비노출·안내 행 제거",
-  "publishedAt": "2026-10-27T06:05:04.125Z"
+  "version": "1.0.71",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.71",
+  "notes": "PartsCollection 완전 자동화 (미등록 파츠 자동 등록·카테고리 폴백·Files 에서 컬렉션 파일 숨김)",
+  "publishedAt": "2026-10-27T22:55:54.745Z"
 }
