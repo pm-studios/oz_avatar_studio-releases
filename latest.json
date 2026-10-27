@@ -1,6 +1,6 @@
 {
-  "version": "1.0.67",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.67",
-  "notes": "새 파츠 창 그룹·생성 파일명 표시/변경·텍스처도 복사·전용 텍스처 삭제, 하이어라키 이름 표기, Legacy Id 칸 제거",
-  "publishedAt": "2026-10-27T04:59:45.290Z"
+  "version": "1.0.68",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.68",
+  "notes": "새 메시를 옛 번호 FBX 이름으로 올렸을 때 다른 모자의 옛 산출물로 보정돼 90° 돌아가던 것 수정(C_014_01), 아이콘 재촬영 즉시 반영",
+  "publishedAt": "2026-10-27T05:36:31.300Z"
 }
