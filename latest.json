@@ -1,6 +1,6 @@
 {
-  "version": "1.0.65",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.65",
-  "notes": "Parts 드래그 순서 변경·조절 UI 아이콘 폴더·아이콘 촬영 기울기",
-  "publishedAt": "2026-10-26T03:47:49.196Z"
+  "version": "1.0.66",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.66",
+  "notes": "파츠 id(시스템 키·숨김)/name(표시 이름) 분리·새 파츠 guid·이름 변경·오류 팝업·셰이더 세부탭·.mat 삭제 시 PartsData 유지",
+  "publishedAt": "2026-10-27T04:22:09.368Z"
 }
