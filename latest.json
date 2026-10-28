@@ -1,6 +1,6 @@
 {
-  "version": "1.0.71",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.71",
-  "notes": "PartsCollection 완전 자동화 (미등록 파츠 자동 등록·카테고리 폴백·Files 에서 컬렉션 파일 숨김)",
-  "publishedAt": "2026-10-27T22:55:54.745Z"
+  "version": "1.0.72",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.72",
+  "notes": "데칼·렌즈 색 즉시 반영·발광 불규칙 암전·파츠 순서 잠금",
+  "publishedAt": "2026-10-28T05:22:47.283Z"
 }
