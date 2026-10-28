@@ -1,6 +1,6 @@
 {
-  "version": "1.0.72",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.72",
-  "notes": "데칼·렌즈 색 즉시 반영·발광 불규칙 암전·파츠 순서 잠금",
-  "publishedAt": "2026-10-28T05:22:47.283Z"
+  "version": "1.0.73",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.73",
+  "notes": "컬러 프리셋 [Mat] (프리셋 색을 머티리얼에 저장)",
+  "publishedAt": "2026-10-28T06:34:58.558Z"
 }
