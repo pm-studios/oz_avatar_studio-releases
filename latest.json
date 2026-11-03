@@ -1,6 +1,6 @@
 {
-  "version": "1.0.75",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.75",
-  "notes": "촬영 림 라이트 2 · Emissive 셰이더 가드 · 컬러 프리셋 색 개수",
-  "publishedAt": "2026-10-30T00:09:40.460Z"
+  "version": "1.0.76",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.76",
+  "notes": "Cameras 패널(웹 뷰어 카메라 편집) · FBX 씬 미리보기 · 아이콘 촬영 T포즈",
+  "publishedAt": "2026-11-03T05:59:37.966Z"
 }
