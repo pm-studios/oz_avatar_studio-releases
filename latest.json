@@ -1,6 +1,6 @@
 {
-  "version": "1.0.80",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.80",
-  "notes": "Scene-Preview(웹 뷰어 카메라로 씬 보기) · Preview→Simulator · 탭 이름 칩 · 패널 경계 잡기 쉽게",
-  "publishedAt": "2026-11-05T03:25:27.242Z"
+  "version": "1.0.81",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.81",
+  "notes": "Temp(테스트용) 파츠 · 휠 줌 자동 중앙 되돌림",
+  "publishedAt": "2026-11-05T03:46:15.922Z"
 }
