@@ -1,6 +1,6 @@
 {
-  "version": "1.0.82",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.82",
-  "notes": "아이콘 촬영 구도 고정(씬뷰 모양 무관 · 파츠를 바꿔도 같은 셋팅으로 열림)",
-  "publishedAt": "2026-11-05T05:44:53.158Z"
+  "version": "1.0.83",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.83",
+  "notes": "Scene-Preview 선명도(창 크기와 무관하게 픽셀 그대로) · 숫자 입력칸 ↑↓ 키 0.01 조절",
+  "publishedAt": "2026-11-05T06:54:39.331Z"
 }
