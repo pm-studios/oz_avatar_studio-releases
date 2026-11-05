@@ -1,6 +1,6 @@
 {
-  "version": "1.0.79",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.79",
-  "notes": "안경 크기 Custom · Parts/Files·Presets 탭 분리 · 패널 이동 미리보기 크기 · 변환 진행률 · 휠 줌 중앙",
-  "publishedAt": "2026-11-05T01:05:06.333Z"
+  "version": "1.0.80",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.80",
+  "notes": "Scene-Preview(웹 뷰어 카메라로 씬 보기) · Preview→Simulator · 탭 이름 칩 · 패널 경계 잡기 쉽게",
+  "publishedAt": "2026-11-05T03:25:27.242Z"
 }
