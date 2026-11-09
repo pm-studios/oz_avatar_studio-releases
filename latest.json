@@ -1,6 +1,6 @@
 {
-  "version": "1.0.84",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.84",
-  "notes": "git pull 로 FBX·파츠를 함께 받을 때 새 파츠 창이 잘못 뜨던 문제 수정",
-  "publishedAt": "2026-11-09T00:42:23.163Z"
+  "version": "1.0.85",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.85",
+  "notes": "아이콘·아바타 투명 PNG 가장자리 회색 테두리 해소 (한 번 렌더로 알파 그대로)",
+  "publishedAt": "2026-11-09T03:19:23.385Z"
 }
