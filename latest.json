@@ -1,6 +1,6 @@
 {
-  "version": "1.0.83",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.83",
-  "notes": "Scene-Preview 선명도(창 크기와 무관하게 픽셀 그대로) · 숫자 입력칸 ↑↓ 키 0.01 조절",
-  "publishedAt": "2026-11-05T06:54:39.331Z"
+  "version": "1.0.84",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.84",
+  "notes": "git pull 로 FBX·파츠를 함께 받을 때 새 파츠 창이 잘못 뜨던 문제 수정",
+  "publishedAt": "2026-11-09T00:42:23.163Z"
 }
