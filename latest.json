@@ -1,6 +1,6 @@
 {
-  "version": "1.0.86",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.86",
-  "notes": "입술 색 보정 · 4장 PNG 이름 지정 · 쿼드뷰와 같은 측면/후면 조명",
-  "publishedAt": "2026-11-10T05:02:14.139Z"
+  "version": "1.0.87",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.87",
+  "notes": "촬영 투명 여백 과다(카메라 초기화) · 4장 PNG 한글 이름 수정",
+  "publishedAt": "2026-11-10T05:20:48.879Z"
 }
