@@ -1,6 +1,6 @@
 {
-  "version": "1.0.88",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.88",
-  "notes": "4장 PNG 정면·측면·후면 수평 고정",
-  "publishedAt": "2026-11-10T05:59:48.661Z"
+  "version": "1.0.89",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.89",
+  "notes": "4장 PNG '현재 뷰' 가 보고 있는 화면(씬뷰/Capture) 기준",
+  "publishedAt": "2026-11-10T06:11:22.151Z"
 }
