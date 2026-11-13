@@ -1,6 +1,6 @@
 {
-  "version": "1.0.90",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.90",
-  "notes": "효과 레이어(일렁임·훑는 빛·효과 색), 서브 머티리얼 분리, 설명서 갱신",
-  "publishedAt": "2026-11-13T03:34:16.644Z"
+  "version": "1.0.91",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.91",
+  "notes": "웹 배포가 변환 안 된 파츠를 일괄 변환하고 Studio 변환본을 커밋해 올림",
+  "publishedAt": "2026-11-13T03:56:38.488Z"
 }
