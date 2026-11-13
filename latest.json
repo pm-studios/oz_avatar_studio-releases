@@ -1,6 +1,6 @@
 {
-  "version": "1.0.92",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.92",
-  "notes": "배포 버튼 하나로 끝: Studio 편집 커밋·일괄 변환·웹 배포·서버 반영 확인",
-  "publishedAt": "2026-11-13T04:04:16.543Z"
+  "version": "1.0.93",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.93",
+  "notes": "웹 배포 수정: Unity 원본 보존, 웹 파츠 목록 형식",
+  "publishedAt": "2026-11-13T04:38:40.051Z"
 }
