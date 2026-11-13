@@ -1,6 +1,6 @@
 {
-  "version": "1.0.89",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.89",
-  "notes": "4장 PNG '현재 뷰' 가 보고 있는 화면(씬뷰/Capture) 기준",
-  "publishedAt": "2026-11-10T06:11:22.151Z"
+  "version": "1.0.90",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.90",
+  "notes": "효과 레이어(일렁임·훑는 빛·효과 색), 서브 머티리얼 분리, 설명서 갱신",
+  "publishedAt": "2026-11-13T03:34:16.644Z"
 }
