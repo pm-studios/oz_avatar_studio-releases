@@ -1,6 +1,6 @@
 {
-  "version": "1.0.91",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.91",
-  "notes": "웹 배포가 변환 안 된 파츠를 일괄 변환하고 Studio 변환본을 커밋해 올림",
-  "publishedAt": "2026-11-13T03:56:38.488Z"
+  "version": "1.0.92",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.92",
+  "notes": "배포 버튼 하나로 끝: Studio 편집 커밋·일괄 변환·웹 배포·서버 반영 확인",
+  "publishedAt": "2026-11-13T04:04:16.543Z"
 }
