@@ -1,6 +1,6 @@
 {
-  "version": "1.0.97",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.97",
-  "notes": "변환에서 Unity 변환본 의존 제거 (헤어 옆머리 하이라이트 끊김 수정), 전 파츠 다시 변환",
-  "publishedAt": "2026-11-16T06:01:45.897Z"
+  "version": "1.0.98",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.98",
+  "notes": "확인 창 뒤 입력칸 타자 안 쳐짐 수정, 배포가 파티클·카메라·헤어 물리·프리셋/씬도 커밋",
+  "publishedAt": "2026-11-16T07:12:58.328Z"
 }
