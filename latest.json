@@ -1,6 +1,6 @@
 {
-  "version": "1.0.95",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.95",
-  "notes": "옛 형식·바뀐 머티리얼 자동 재변환 (효과 샘플이 안 나오던 것)",
-  "publishedAt": "2026-11-13T05:50:25.261Z"
+  "version": "1.0.96",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.96",
+  "notes": "파츠 용량 창·용량 카드, 오른쪽 텍스처·데칼 좌우 색, 렌즈 Mask Tint 정리, 회전 축선 제거",
+  "publishedAt": "2026-11-16T00:51:10.424Z"
 }
