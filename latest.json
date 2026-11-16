@@ -1,6 +1,6 @@
 {
-  "version": "1.0.98",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.98",
-  "notes": "확인 창 뒤 입력칸 타자 안 쳐짐 수정, 배포가 파티클·카메라·헤어 물리·프리셋/씬도 커밋",
-  "publishedAt": "2026-11-16T07:12:58.328Z"
+  "version": "1.0.99",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.99",
+  "notes": "웹 배포 파츠 목록에 고해상도(@2x) 표시 추가 (웹이 고해상도를 받지 않던 문제)",
+  "publishedAt": "2026-11-16T12:55:12.706Z"
 }
