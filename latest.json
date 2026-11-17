@@ -1,6 +1,6 @@
 {
-  "version": "1.0.99",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.99",
-  "notes": "웹 배포 파츠 목록에 고해상도(@2x) 표시 추가 (웹이 고해상도를 받지 않던 문제)",
-  "publishedAt": "2026-11-16T12:55:12.706Z"
+  "version": "1.0.100",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.100",
+  "notes": "test: web-publish-commit 시간 제한 60초 — Windows CI 에서 git 명령이 느려 5초 초과(v1.0.100 빌드 실패)",
+  "publishedAt": "2026-11-17T07:39:41.499Z"
 }
