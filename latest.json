@@ -1,6 +1,6 @@
 {
-  "version": "1.0.100",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.100",
-  "notes": "test: web-publish-commit 시간 제한 60초 — Windows CI 에서 git 명령이 느려 5초 초과(v1.0.100 빌드 실패)",
-  "publishedAt": "2026-11-17T07:39:41.499Z"
+  "version": "1.0.101",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.101",
+  "notes": "Hair Physics 프리셋·자동 적용, 씬뷰 본 표시(클릭 = 고정 바꾸기), 항목 정리",
+  "publishedAt": "2026-11-18T01:40:19.182Z"
 }
