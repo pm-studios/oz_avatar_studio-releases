@@ -1,6 +1,6 @@
 {
-  "version": "1.0.102",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.102",
-  "notes": "순수 렌더 정본(웹 뷰어 포함)·화면 전체 블룸·Color Filter·Bloom Clamp·조명 반사, 숫자 칸 둘째 자리 표시",
-  "publishedAt": "2026-11-20T13:07:31.242Z"
+  "version": "1.0.103",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.103",
+  "notes": "Windows 고성능 그래픽카드 지정·설정 창 그래픽카드 이름",
+  "publishedAt": "2026-11-20T23:20:39.812Z"
 }
