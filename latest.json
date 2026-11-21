@@ -1,6 +1,6 @@
 {
-  "version": "1.0.103",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.103",
-  "notes": "Windows 고성능 그래픽카드 지정·설정 창 그래픽카드 이름",
-  "publishedAt": "2026-11-20T23:20:39.812Z"
+  "version": "1.0.104",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.104",
+  "notes": "파티클 기능(늘어남·프레임 넘김·회전·감쇠·흔들림·고리·몸 뼈에 붙이기·파티클 추가 버튼) + 샘플 7개",
+  "publishedAt": "2026-11-21T00:54:11.175Z"
 }
