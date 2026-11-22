@@ -1,6 +1,6 @@
 {
-  "version": "1.0.105",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.105",
-  "notes": "파티클: 처음 불러온 아바타에서 안경·옷·신발 파티클, 붙일 곳 비움 버그, 그리기 순서 값 · 샘플 1번 프레디·4번 선글라스 글린트",
-  "publishedAt": "2026-11-21T10:52:02.719Z"
+  "version": "1.0.106",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.106",
+  "notes": "파츠 세트: 세트 창(파일 > 세트…)으로 세트 만들기·파츠 넣기, 웹 에디터에서 세트 파츠 옆 '나머지 입기' 버튼 (Simulator 에서 확인)",
+  "publishedAt": "2026-11-22T00:09:48.293Z"
 }
