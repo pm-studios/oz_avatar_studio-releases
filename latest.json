@@ -1,6 +1,6 @@
 {
-  "version": "1.0.108",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.108",
-  "notes": "저장 스냅샷: 포즈별 스냅샷 프레임(Animation 카드), Cameras 저장 스냅샷 탭·실제 저장 크기 보기, Simulator 저장 사진",
-  "publishedAt": "2026-11-23T05:44:23.301Z"
+  "version": "1.0.109",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.109",
+  "notes": "설정을 프로젝트·개인 폴더에 저장(git 공유), 예전 화면에 갇히던 PC 수정, 환경 기본값 복원 림 라이트 수정, Desat 칸 삭제",
+  "publishedAt": "2026-11-23T13:56:39.602Z"
 }
