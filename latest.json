@@ -1,6 +1,6 @@
 {
-  "version": "1.0.106",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.106",
-  "notes": "파츠 세트: 세트 창(파일 > 세트…)으로 세트 만들기·파츠 넣기, 웹 에디터에서 세트 파츠 옆 '나머지 입기' 버튼 (Simulator 에서 확인)",
-  "publishedAt": "2026-11-22T00:09:48.293Z"
+  "version": "1.0.107",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.107",
+  "notes": "아이콘 촬영 각도 칸: 소수 둘째 자리까지 표시, 클릭하면 입력한 값 그대로",
+  "publishedAt": "2026-11-23T03:01:13.719Z"
 }
