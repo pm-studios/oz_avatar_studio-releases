@@ -1,6 +1,6 @@
 {
-  "version": "1.0.107",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.107",
-  "notes": "아이콘 촬영 각도 칸: 소수 둘째 자리까지 표시, 클릭하면 입력한 값 그대로",
-  "publishedAt": "2026-11-23T03:01:13.719Z"
+  "version": "1.0.108",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.108",
+  "notes": "저장 스냅샷: 포즈별 스냅샷 프레임(Animation 카드), Cameras 저장 스냅샷 탭·실제 저장 크기 보기, Simulator 저장 사진",
+  "publishedAt": "2026-11-23T05:44:23.301Z"
 }
