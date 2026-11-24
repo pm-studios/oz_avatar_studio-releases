@@ -1,6 +1,6 @@
 {
-  "version": "1.0.109",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.109",
-  "notes": "설정을 프로젝트·개인 폴더에 저장(git 공유), 예전 화면에 갇히던 PC 수정, 환경 기본값 복원 림 라이트 수정, Desat 칸 삭제",
-  "publishedAt": "2026-11-23T13:56:39.602Z"
+  "version": "1.0.110",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.110",
+  "notes": "Environment 패널 Bloom 끄기가 안 먹던 것 수정, 툴바 버튼(블룸·그림자·배경)과 패널 표시 일치",
+  "publishedAt": "2026-11-24T09:51:51.702Z"
 }
