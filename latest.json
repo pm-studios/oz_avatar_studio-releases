@@ -1,6 +1,6 @@
 {
-  "version": "1.0.111",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.111",
-  "notes": "Cameras·Scene-Preview 모자 턱 잘림 수정, 웹 뷰어 삼성 인터넷 색 보정·캡처·편집 탭 수정 반영",
-  "publishedAt": "2026-11-25T02:06:16.200Z"
+  "version": "1.0.112",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.112",
+  "notes": "Files 탭 검색 결과가 300개까지만 보이던 것 수정(이제 전부 표시)",
+  "publishedAt": "2026-11-25T06:15:31.351Z"
 }
