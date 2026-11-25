@@ -1,6 +1,6 @@
 {
-  "version": "1.0.110",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.110",
-  "notes": "Environment 패널 Bloom 끄기가 안 먹던 것 수정, 툴바 버튼(블룸·그림자·배경)과 패널 표시 일치",
-  "publishedAt": "2026-11-24T09:51:51.702Z"
+  "version": "1.0.111",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.111",
+  "notes": "Cameras·Scene-Preview 모자 턱 잘림 수정, 웹 뷰어 삼성 인터넷 색 보정·캡처·편집 탭 수정 반영",
+  "publishedAt": "2026-11-25T02:06:16.200Z"
 }
