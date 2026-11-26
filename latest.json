@@ -1,6 +1,6 @@
 {
-  "version": "1.0.112",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.112",
-  "notes": "Files 탭 검색 결과가 300개까지만 보이던 것 수정(이제 전부 표시)",
-  "publishedAt": "2026-11-25T06:15:31.351Z"
+  "version": "1.0.113",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.113",
+  "notes": "Cameras 미리보기를 끌어 아바타 회전(뒷모습 확인), Cameras 기기 목록에 Galaxy Note10 추가(폰 앱 화면과 같은 크기)",
+  "publishedAt": "2026-11-26T02:06:49.819Z"
 }
