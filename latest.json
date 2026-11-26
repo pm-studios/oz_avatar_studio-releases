@@ -1,6 +1,6 @@
 {
-  "version": "1.0.113",
-  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.113",
-  "notes": "Cameras 미리보기를 끌어 아바타 회전(뒷모습 확인), Cameras 기기 목록에 Galaxy Note10 추가(폰 앱 화면과 같은 크기)",
-  "publishedAt": "2026-11-26T02:06:49.819Z"
+  "version": "1.0.114",
+  "url": "https://github.com/pm-studios/oz_avatar_studio-releases/releases/tag/v1.0.114",
+  "notes": "머티리얼의 림 색(Rim Color)이 웹에도 반영, Environment 값(조명·노출·블룸·Color Filter)이 웹 배포 때 자동 반영",
+  "publishedAt": "2026-11-26T03:32:26.776Z"
 }
